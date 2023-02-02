@@ -33,3 +33,7 @@ Check the logs of Cloud Function that is deployed to get the customised asset fe
 
 NOTE: Asset Feed of Cloud Function 2nd generation could be captured using the asset type "run.googleapis.com/Service" because Cloud Functions 2nd generation is Google Cloud's next-generation Functions-as-a-Service offering built on Cloud Run. Google Cloud Platform Product Engineering team is working on capturing the asset feed of Cloud Functions 2nd generation under the asset type "cloudfunctions.googleapis.com/Function".
 ```
+
+```
+Any additional suggestions on this are accepted. Please reach out to me at pawansenapati1999@gmail.com
+```
